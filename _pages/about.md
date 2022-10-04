@@ -19,7 +19,7 @@ Image Classification, Object detection, Explainable AI, Deep learning based Busi
 Image/Video Adversarial Examples of DNN and CNN, DOE parameter tunning, Monodepth
 
 ## News
-[Aug. 2022] Our paper about Comparing summer and winter Deep learning-based thermal image analysis
+[Aug. 2022] Our paper: Comparing summer and winter Deep learning-based thermal image analysis
 of complex pavement defect conditions was submitted to Remote Sensing!
 
 ## Publications
