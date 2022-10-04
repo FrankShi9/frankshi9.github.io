@@ -13,6 +13,7 @@ Hi, I am Yunfan Shi, a final year undergraduate at the University of Liverpool.
 
 I have worked as a research assistant at the University of Liverpool, working with Dr Hyung-Joon Seo since 2021 autumn. Prior to it, I worked as a research assitant for Dr Xiaohui Zhu in Xi’an Jiaotong-Liverpool University.
 
+|CV [a link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/FrankShi9/frankshi9.github.io/blob/master/CV%20Yunfan%20Shi.pdf))|
 
 ## Research Interests
 Image Classification, Object detection, Explainable AI, Deep learning based Business Intelligence
