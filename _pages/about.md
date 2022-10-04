@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+
 Hi, I am Yunfan Shi, a final year undergraduate at the University of Liverpool.
 
 I have worked as a research assistant at the University of Liverpool, working with Dr Hyung-Joon Seo since 2021 autumn. Prior to it, I worked as a research assitant for Dr XIAOHUI ZHU in Xi’an Jiaotong-Liverpool University.
