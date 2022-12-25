@@ -24,7 +24,7 @@ Image/Video Adversarial Examples of DNN and CNN, DOE parameter tunning, Monodept
 
 ## Publications
 [Dec. 2022] Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect
-https://www.mdpi.com/1424-8220/22/23/9365
+(https://www.mdpi.com/1424-8220/22/23/9365)
 
 ## Patents
 
