@@ -21,10 +21,11 @@ Image/Video Adversarial Examples of DNN and CNN, DOE parameter tunning, Monodept
 
 ## News
 [Aug. 2022] Our paper: Comparing summer and winter Deep learning-based thermal image analysis
-of complex pavement defect conditions was submitted to Remote Sensing!
+of complex pavement defect conditions was published in MDPI Sensors!
 
 ## Publications
-
+[Dec. 2022] Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect
+https://www.mdpi.com/1424-8220/22/23/9365
 
 ## Patents
 
