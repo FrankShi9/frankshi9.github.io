@@ -20,8 +20,7 @@ Image Classification, Object detection, Explainable AI, Deep learning based Busi
 Image/Video Adversarial Examples of DNN and CNN, DOE parameter tunning, Monodepth
 
 ## News
-[Aug. 2022] Our paper: Comparing summer and winter Deep learning-based thermal image analysis
-of complex pavement defect conditions was published in MDPI Sensors!
+[Dec. 2022] Our paper: Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect is published in MDPI Sensors!
 
 ## Publications
 [Dec. 2022] Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect
