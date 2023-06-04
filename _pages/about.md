@@ -21,6 +21,8 @@ Image/Video Adversarial Examples of DNN and CNN, DOE parameter tunning, Monodept
 
 ## News
 [Dec. 2022] Our paper: Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect is published in MDPI Sensors!
+[May. 2022] Our paper: Realtime Mask Detection of Kitchen Staff Using YOLOv5 and Edge Computing is preprinted in ICCCR 2023 Conference Proceedings!
+[June. 2022] Our paper: Automatic Damage Detection of Pavement through DarkNet Analysis of Digital, IR, and MSX Images is accepted in Elsevier Measurement!
 
 ## Publications
 [Dec. 2022] Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect
