@@ -13,7 +13,7 @@ Hi, I am Yunfan Shi, a MSc Robotics and Computation at UCL.
 I am currently on Oxford EWADA LLM project. My undergraduate FYP supervisor is Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/)
 I have worked as a research assistant at the University of Liverpool, working with Dr [Hyung-Joon Seo](https://scholar.google.com/citations?user=9FOIHmYAAAAJ&hl=en) since 2021 autumn. Prior to it, I worked as a research assitant for Dr [Xiaohui Zhu](https://scholar.google.com/citations?user=Ug_UiIoAAAAJ&hl=en) in Xi’an Jiaotong-Liverpool University.
 
-[CV English](Yunfan%20Shi%20CV%20A.pdf)  [CV Chinese](CV%20Yunfan%20Shi%20.pdf) 
+[CV English](Yunfan%20Shi%20CV%20A.pdf)  [CV Chinese](CV%20Yunfan%20Shi.pdf) 
 
 ## Research Interests
 GPT, LLM, Image Classification, Object detection, Explainable AI, Deep learning based Business Intelligence
