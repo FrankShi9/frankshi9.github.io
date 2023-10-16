@@ -13,7 +13,7 @@ Hi, I am Yunfan Shi, a MSc Robotics and Computation at UCL.
 I am currently on Oxford EWADA LLM project. My undergraduate FYP supervisor is Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/)
 I have worked as a research assistant at the University of Liverpool, working with Dr [Hyung-Joon Seo](https://scholar.google.com/citations?user=9FOIHmYAAAAJ&hl=en) since 2021 autumn. Prior to it, I worked as a research assitant for Dr [Xiaohui Zhu](https://scholar.google.com/citations?user=Ug_UiIoAAAAJ&hl=en) in Xi’an Jiaotong-Liverpool University.
 
-[CV](_pages/Yunfan%20Shi%20CV.pdf)
+[CV English](_pages/Yunfan%20Shi%20CV%20A.pdf)  [CV Chinese](_pages/CV%20Yunfan%20Shi%20.pdf) 
 
 ## Research Interests
 GPT, LLM, Image Classification, Object detection, Explainable AI, Deep learning based Business Intelligence
@@ -25,6 +25,8 @@ Image/Video Adversarial Examples of DNN and CNN, DOE parameter tunning, Monodept
 [Dec. 2022] Our paper: Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect is published in MDPI Sensors! 
 
 ## Publications
+[Mar. 2023] Realtime Mask Detection of Kitchen Staff Using YOLOv5 and Edge Computing
+[link](https://ieeexplore.ieee.org/abstract/document/10193943)
 [Dec. 2022] Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect
 [link](https://www.mdpi.com/1424-8220/22/23/9365)
 
