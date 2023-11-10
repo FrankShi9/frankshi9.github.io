@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hi, I am Yunfan Shi, a MSc Robotics and Computation at UCL.
-I am currently on Oxford EWADA LLM project. My undergraduate FYP supervisor is Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/)
+I am currently on Oxford EWADA LLM project. My undergraduate FYP supervisor is Professor [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/)
 I have worked as a research assistant at the University of Liverpool, working with Dr [Hyung-Joon Seo](https://scholar.google.com/citations?user=9FOIHmYAAAAJ&hl=en) since 2021 autumn. Prior to it, I worked as a research assitant for Dr [Xiaohui Zhu](https://scholar.google.com/citations?user=Ug_UiIoAAAAJ&hl=en) in Xi’an Jiaotong-Liverpool University.
 
 
