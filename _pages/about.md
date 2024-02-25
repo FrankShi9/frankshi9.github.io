@@ -23,7 +23,7 @@ AI Safety and Adversarial Robustness, Explainable AI, LLM Privacy, Difficult Obj
 [Dec. 2022] Our paper: Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect is published in MDPI Sensors! 
 
 ## Publications
-[Jan. 2024] [Automatic damage detection of pavement through DarkNet analysis of digital, infrared, and multi-spectral dynamic imaging images] (https://www.mdpi.com/1424-8220/24/2/464)\
+[Jan. 2024] [Automatic damage detection of pavement through DarkNet analysis of digital, infrared, and multi-spectral dynamic imaging images] (https://www.mdpi.com/1424-8220/24/2/464) \
 [Mar. 2023] [Realtime Mask Detection of Kitchen Staff Using YOLOv5 and Edge Computing](https://ieeexplore.ieee.org/abstract/document/10193943)\
 [Dec. 2022] [Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect](https://www.mdpi.com/1424-8220/22/23/9365)
 
