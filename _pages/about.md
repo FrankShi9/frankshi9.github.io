@@ -18,14 +18,14 @@ I have worked as a research assistant at the University of Liverpool for Dr [Hyu
 AI Safety and Adversarial Robustness, Explainable AI, LLM Privacy, Difficult Object detection, Complex Signal Classification, AI Business Intelligence, Monodepth
 
 ## News
-[June. 2023] Our paper: Automatic Damage Detection of Pavement through DarkNet Analysis of Digital, IR, and MSX Images is accepted in Elsevier Measurement! \
+[Jan. 2024] Our paper: Automatic damage detection of pavement through DarkNet analysis of digital, infrared, and multi-spectral dynamic imaging images is accepted in MDPI Sensors! \
 [May. 2023] Our paper: Realtime Mask Detection of Kitchen Staff Using YOLOv5 and Edge Computing is preprinted in ICCCR 2023 Conference Proceedings! \
 [Dec. 2022] Our paper: Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect is published in MDPI Sensors! 
 
 ## Publications
+[Jan. 2024] [Automatic damage detection of pavement through DarkNet analysis of digital, infrared, and multi-spectral dynamic imaging images] (https://www.mdpi.com/1424-8220/24/2/464)\
 [Mar. 2023] [Realtime Mask Detection of Kitchen Staff Using YOLOv5 and Edge Computing](https://ieeexplore.ieee.org/abstract/document/10193943)\
 [Dec. 2022] [Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect](https://www.mdpi.com/1424-8220/22/23/9365)
 
 ## Patents
 XAI based self-supervised attention mask enhanced PGD
-[CN 202310839347.4]
