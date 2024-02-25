@@ -19,7 +19,7 @@ AI Safety and Adversarial Robustness, Explainable AI, LLM Privacy, Difficult Obj
 
 ## News
 [Jan. 2024] Our paper: Automatic damage detection of pavement through DarkNet analysis of digital, infrared, and multi-spectral dynamic imaging images is published in MDPI Sensors! \
-[May. 2023] Our paper: Realtime Mask Detection of Kitchen Staff Using YOLOv5 and Edge Computing is preprinted in ICCCR 2023 Conference Proceedings! \
+[Mar. 2023] Our paper: Realtime Mask Detection of Kitchen Staff Using YOLOv5 and Edge Computing is published in ICCCR 2023 Conference Proceedings! \
 [Dec. 2022] Our paper: Deep Learning Based Infrared Thermal Image Analysis of Complex Pavement Defect Conditions Considering Seasonal Effect is published in MDPI Sensors! 
 
 ## Publications
